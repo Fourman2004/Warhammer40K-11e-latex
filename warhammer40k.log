@@ -1,0 +1,633 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.23)  9 SEP 2025 18:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./warhammer40k.tex
+(warhammer40k.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-05-26>
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@chapter=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/wallpaper\wallpaper.sty
+Package: wallpaper 2005/01/18, v1.01 easy wallpaper formatting (MHFW)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count284
+\calc@Bcount=\count285
+\calc@Adimen=\dimen149
+\calc@Bdimen=\dimen150
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count286
+\calc@Cskip=\skip53
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen151
+\ESO@tempdimb=\dimen152
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+))
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+\wpXoffset=\skip54
+\wpYoffset=\skip55
+\tileXoffset=\skip56
+\tileYoffset=\skip57
+\tilewidth=\skip58
+\tileheight=\skip59
+\tileX=\skip60
+\tileY=\skip61
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+\col@sep=\dimen155
+\ar@mcellbox=\box53
+\extrarowheight=\dimen156
+\NC@list=\toks18
+\extratabsurround=\skip62
+\backup@length=\skip63
+\ar@cellbox=\box54
+)
+\everycr=\toks19
+\minrowclearance=\skip64
+\rownum=\count287
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count288
+\c@Blindtext=\count289
+\c@blind@countparstart=\count290
+\blind@countxx=\count291
+\blindtext@numBlindtext=\count292
+\blind@countyy=\count293
+\c@blindlist=\count294
+\c@blindlistlevel=\count295
+\c@blindlist@level=\count296
+\blind@listitem=\count297
+\c@blind@listcount=\count298
+\c@blind@levelcount=\count299
+\blind@mathformula=\count300
+\blind@Mathformula=\count301
+\c@blind@randomcount=\count302
+\c@blind@randommax=\count303
+\c@blind@pangramcount=\count304
+\c@blind@pangrammax=\count305
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count306
+\Gm@cntv=\count307
+\c@Gm@tempcnt=\count308
+\Gm@bindingoffset=\dimen157
+\Gm@wd@mp=\dimen158
+\Gm@odd@mp=\dimen159
+\Gm@even@mp=\dimen160
+\Gm@layoutwidth=\dimen161
+\Gm@layoutheight=\dimen162
+\Gm@layouthoffset=\dimen163
+\Gm@layoutvoffset=\dimen164
+\Gm@dimlist=\toks20
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip65
+\f@nch@offset@elh=\skip66
+\f@nch@offset@erh=\skip67
+\f@nch@offset@olh=\skip68
+\f@nch@offset@orh=\skip69
+\f@nch@offset@elf=\skip70
+\f@nch@offset@erf=\skip71
+\f@nch@offset@olf=\skip72
+\f@nch@offset@orf=\skip73
+\f@nch@height=\skip74
+\f@nch@footalignment=\skip75
+\f@nch@widthL=\skip76
+\f@nch@widthC=\skip77
+\f@nch@widthR=\skip78
+\@temptokenb=\toks21
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count309
+)) (C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2025/05/25 v2.0a multicolumn formatting (FMi)
+\c@tracingmulticols=\count310
+\mult@box=\box55
+\multicol@leftmargin=\dimen165
+\c@unbalance=\count311
+\c@collectmore=\count312
+\doublecol@number=\count313
+\multicoltolerance=\count314
+\multicolpretolerance=\count315
+\full@width=\dimen166
+\page@free=\dimen167
+\premulticols=\dimen168
+\postmulticols=\dimen169
+\multicolsep=\skip79
+\multicolbaselineskip=\skip80
+\partial@page=\box56
+\last@line=\box57
+\mc@boxedresult=\box58
+\maxbalancingoverflow=\dimen170
+\mult@rightbox=\box59
+\mult@grightbox=\box60
+\mult@firstbox=\box61
+\mult@gfirstbox=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\c@minrows=\count316
+\c@columnbadness=\count317
+\c@finalcolumnbadness=\count318
+\last@try=\dimen171
+\multicolovershoot=\dimen172
+\multicolundershoot=\dimen173
+\mult@nat@firstbox=\box99
+\colbreak@box=\box100
+\mc@col@check@num=\count319
+\g__mc_curr_col_int=\count320
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box101
+\beforetitleunit=\skip81
+\aftertitleunit=\skip82
+\ttl@plus=\dimen174
+\ttl@minus=\dimen175
+\ttl@toksa=\toks22
+\titlewidth=\dimen176
+\titlewidthlast=\dimen177
+\titlewidthfirst=\dimen178
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2024/12/21 v2.1c Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 11
+6.
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 116.
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count321
+) (warhammer40k.aux)
+\openout1 = `warhammer40k.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count322
+\scratchdimen=\dimen179
+\scratchbox=\box102
+\nofMPsegments=\count323
+\nofMParguments=\count324
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen180
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 23.63593pt on input line 45.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 9.49997pt on input line 51.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 13.67995pt on input line 51.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 52.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 52.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--58
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 59.
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--69
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 7
+1.
+(C:\Users\marsh\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 71.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 71.
+
+Overfull \hbox (255.242pt too wide) in paragraph at lines 50--94
+[][] 
+ []
+
+
+
+
+
+
+
+<Images/Header_footer/header.png, id=1, 1927.2pt x 338.26375pt>
+File: Images/Header_footer/header.png Graphic file (type png)
+<use Images/Header_footer/header.png>
+Package pdftex.def Info: Images/Header_footer/header.png  used on input line 94
+.
+(pdftex.def)             Requested size: 565.54935pt x 99.26563pt.
+
+Overfull \hbox (65.06535pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 111.26563pt, for example:
+(fancyhdr)                \setlength{\headheight}{111.26563pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-99.26563pt}.
+
+<Images/Header_footer/footer.png, id=3, 1927.2pt x 338.26375pt>
+File: Images/Header_footer/footer.png Graphic file (type png)
+<use Images/Header_footer/footer.png>
+Package pdftex.def Info: Images/Header_footer/footer.png  used on input line 94
+.
+(pdftex.def)             Requested size: 565.54935pt x 99.26563pt.
+
+Overfull \hbox (65.06535pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 111.26563pt, for example:
+(fancyhdr)                \setlength{\footskip}{111.26563pt}.
+
+<background.png, id=4, 597.432pt x 845.0772pt>
+File: background.png Graphic file (type png)
+<use background.png>
+Package pdftex.def Info: background.png  used on input line 94.
+(pdftex.def)             Requested size: 562.01462pt x 794.97874pt.
+[1{C:/Users/marsh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ma
+rsh/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
+
+
+ <./background.png (PNG copy)> <./Images/Header_footer/header.png> <./Images/He
+ader_footer/footer.png>]
+<Images/Stratagems/Stratagem_1.png, id=15, 843.15pt x 724.7075pt>
+File: Images/Stratagems/Stratagem_1.png Graphic file (type png)
+<use Images/Stratagems/Stratagem_1.png>
+Package pdftex.def Info: Images/Stratagems/Stratagem_1.png  used on input line 
+98.
+(pdftex.def)             Requested size: 225.21626pt x 193.57259pt.
+<Images/Stratagems/Stratagem_2.png, id=16, 843.15pt x 724.7075pt>
+File: Images/Stratagems/Stratagem_2.png Graphic file (type png)
+<use Images/Stratagems/Stratagem_2.png>
+Package pdftex.def Info: Images/Stratagems/Stratagem_2.png  used on input line 
+99.
+(pdftex.def)             Requested size: 225.21626pt x 193.57259pt.
+<Images/Stratagems/Stratagem_3.png, id=17, 843.15pt x 724.7075pt>
+File: Images/Stratagems/Stratagem_3.png Graphic file (type png)
+<use Images/Stratagems/Stratagem_3.png>
+Package pdftex.def Info: Images/Stratagems/Stratagem_3.png  used on input line 
+100.
+(pdftex.def)             Requested size: 225.21626pt x 193.57259pt.
+<Images/Stratagems/Stratagem_4.png, id=18, 843.15pt x 724.7075pt>
+File: Images/Stratagems/Stratagem_4.png Graphic file (type png)
+<use Images/Stratagems/Stratagem_4.png>
+Package pdftex.def Info: Images/Stratagems/Stratagem_4.png  used on input line 
+101.
+(pdftex.def)             Requested size: 225.21626pt x 193.57259pt.
+<Images/Stratagems/Stratagem_5.png, id=19, 843.15pt x 724.7075pt>
+File: Images/Stratagems/Stratagem_5.png Graphic file (type png)
+<use Images/Stratagems/Stratagem_5.png>
+Package pdftex.def Info: Images/Stratagems/Stratagem_5.png  used on input line 
+102.
+(pdftex.def)             Requested size: 225.21626pt x 193.57259pt.
+<Images/Stratagems/Stratagem_6.png, id=20, 843.15pt x 724.7075pt>
+File: Images/Stratagems/Stratagem_6.png Graphic file (type png)
+<use Images/Stratagems/Stratagem_6.png>
+Package pdftex.def Info: Images/Stratagems/Stratagem_6.png  used on input line 
+103.
+(pdftex.def)             Requested size: 225.21626pt x 193.57259pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--104
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--104
+[] []
+ []
+
+
+Overfull \hbox (255.242pt too wide) in paragraph at lines 95--105
+[][] 
+ []
+
+
+
+
+
+
+
+
+
+File: Images/Header_footer/header.png Graphic file (type png)
+<use Images/Header_footer/header.png>
+Package pdftex.def Info: Images/Header_footer/header.png  used on input line 10
+5.
+(pdftex.def)             Requested size: 565.54935pt x 99.26563pt.
+
+Overfull \hbox (65.06535pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 111.26563pt, for example:
+(fancyhdr)                \setlength{\headheight}{111.26563pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-99.26563pt}.
+
+File: Images/Header_footer/footer.png Graphic file (type png)
+<use Images/Header_footer/footer.png>
+Package pdftex.def Info: Images/Header_footer/footer.png  used on input line 10
+5.
+(pdftex.def)             Requested size: 565.54935pt x 99.26563pt.
+
+Overfull \hbox (65.06535pt too wide) has occurred while \output is active
+[][] 
+ []
+
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 111.26563pt, for example:
+(fancyhdr)                \setlength{\footskip}{111.26563pt}.
+
+File: background.png Graphic file (type png)
+<use background.png>
+Package pdftex.def Info: background.png  used on input line 105.
+(pdftex.def)             Requested size: 562.01462pt x 794.97874pt.
+[2 <./Images/Stratagems/Stratagem_1.png> <./Images/Stratagems/Stratagem_2.png> 
+<./Images/Stratagems/Stratagem_3.png> <./Images/Stratagems/Stratagem_4.png> <./
+Images/Stratagems/Stratagem_5.png> <./Images/Stratagems/Stratagem_6.png>]
+(warhammer40k.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-05-26>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 5206 strings out of 468219
+ 85380 string characters out of 5432869
+ 507347 words of memory out of 5000000
+ 33658 multiletter control sequences out of 15000+600000
+ 643790 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,13n,79p,1203b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\marsh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
+1000.pk><C:/Users/marsh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/
+uhvb8a.pfb><C:/Users/marsh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvet
+ic/uhvr8a.pfb><C:/Users/marsh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/hel
+vetic/uhvro8a.pfb>
+Output written on warhammer40k.pdf (2 pages, 2010333 bytes).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
