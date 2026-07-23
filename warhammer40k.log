@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.23)  23 JUL 2026 00:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.23)  23 JUL 2026 01:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -479,20 +479,38 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 9.49997pt on input line 56.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.54997pt on input line 57.
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--61
+Underfull \hbox (badness 10000) in paragraph at lines 59--64
 
  []
 
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 65.
+(Font)              scaled to size 8.54997pt on input line 71.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 11.39996pt on input line 73.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 75.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 8.54997pt on input line 75.
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--69
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--73
+Underfull \hbox (badness 10000) in paragraph at lines 79--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
 
  []
 
@@ -500,27 +518,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--73
 File: Images/Stratagems/Stratagem_1.png Graphic file (type png)
 <use Images/Stratagems/Stratagem_1.png>
 Package pdftex.def Info: Images/Stratagems/Stratagem_1.png  used on input line 
-77.
+94.
 (pdftex.def)             Requested size: 225.21626pt x 193.57259pt.
 <Images/Stratagems/Stratagem_2.png, id=3, 843.15pt x 724.7075pt>
 File: Images/Stratagems/Stratagem_2.png Graphic file (type png)
 <use Images/Stratagems/Stratagem_2.png>
 Package pdftex.def Info: Images/Stratagems/Stratagem_2.png  used on input line 
-78.
+95.
 (pdftex.def)             Requested size: 225.21626pt x 193.57259pt.
 <Images/Stratagems/Stratagem_3.png, id=4, 843.15pt x 724.7075pt>
 File: Images/Stratagems/Stratagem_3.png Graphic file (type png)
 <use Images/Stratagems/Stratagem_3.png>
 Package pdftex.def Info: Images/Stratagems/Stratagem_3.png  used on input line 
-79.
+96.
 (pdftex.def)             Requested size: 225.21626pt x 193.57259pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--80
+Underfull \hbox (badness 10000) in paragraph at lines 94--97
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--80
+Underfull \hbox (badness 10000) in paragraph at lines 94--97
 []
  []
 
@@ -535,7 +553,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--80
 <Images/Header_footer/Header.png, id=5, 1927.2pt x 338.26375pt>
 File: Images/Header_footer/Header.png Graphic file (type png)
 <use Images/Header_footer/Header.png>
-Package pdftex.def Info: Images/Header_footer/Header.png  used on input line 81
+Package pdftex.def Info: Images/Header_footer/Header.png  used on input line 98
 .
 (pdftex.def)             Requested size: 565.54935pt x 99.26563pt.
 
@@ -553,7 +571,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Images/Header_footer/Footer.png, id=6, 1927.2pt x 338.26375pt>
 File: Images/Header_footer/Footer.png Graphic file (type png)
 <use Images/Header_footer/Footer.png>
-Package pdftex.def Info: Images/Header_footer/Footer.png  used on input line 81
+Package pdftex.def Info: Images/Header_footer/Footer.png  used on input line 98
 .
 (pdftex.def)             Requested size: 565.54901pt x 69.70581pt.
 
@@ -569,7 +587,7 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 <background.png, id=7, 597.432pt x 845.0772pt>
 File: background.png Graphic file (type png)
 <use background.png>
-Package pdftex.def Info: background.png  used on input line 81.
+Package pdftex.def Info: background.png  used on input line 98.
 (pdftex.def)             Requested size: 562.01462pt x 794.97874pt.
 [1{C:/Users/marsh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ma
 rsh/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
@@ -584,11 +602,11 @@ L3 programming layer <2025-05-26>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6259 strings out of 468219
- 103663 string characters out of 5432869
- 522890 words of memory out of 5000000
- 34680 multiletter control sequences out of 15000+600000
- 644574 words of font info for 53 fonts, out of 8000000 for 9000
+ 6265 strings out of 468219
+ 103726 string characters out of 5432869
+ 533894 words of memory out of 5000000
+ 34684 multiletter control sequences out of 15000+600000
+ 652056 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,13n,80p,1203b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\marsh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
@@ -596,7 +614,7 @@ Here is how much of TeX's memory you used:
 uhvb8a.pfb><C:/Users/marsh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvet
 ic/uhvr8a.pfb><C:/Users/marsh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/hel
 vetic/uhvro8a.pfb>
-Output written on warhammer40k.pdf (1 page, 1903755 bytes).
+Output written on warhammer40k.pdf (1 page, 1913211 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
