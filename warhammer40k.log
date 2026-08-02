@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.23)  23 JUL 2026 01:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.23)  23 JUL 2026 15:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -470,75 +470,76 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 23.63593pt on input line 49.
+(Font)              scaled to size 19.70294pt on input line 49.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 50.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 13.67995pt on input line 55.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 56.
-LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 56.
+(Font)              scaled to size 19.70294pt on input line 49.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.54997pt on input line 50.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 8.54997pt on input line 50.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 13.67995pt on input line 56.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 57.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 8.54997pt on input line 57.
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--64
+Underfull \hbox (badness 10000) in paragraph at lines 60--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--72
 
  []
 
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 71.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 73.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 75.
-LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 75.
+(Font)              scaled to size 11.39996pt on input line 76.
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--77
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--82
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--90
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
 
  []
 
-<Images/Stratagems/Stratagem_1.png, id=1, 843.15pt x 724.7075pt>
-File: Images/Stratagems/Stratagem_1.png Graphic file (type png)
-<use Images/Stratagems/Stratagem_1.png>
-Package pdftex.def Info: Images/Stratagems/Stratagem_1.png  used on input line 
-94.
+<Images/Stratagems/dark_claim.png, id=1, 843.15pt x 724.7075pt>
+File: Images/Stratagems/dark_claim.png Graphic file (type png)
+<use Images/Stratagems/dark_claim.png>
+Package pdftex.def Info: Images/Stratagems/dark_claim.png  used on input line 9
+2.
 (pdftex.def)             Requested size: 225.21626pt x 193.57259pt.
-<Images/Stratagems/Stratagem_2.png, id=3, 843.15pt x 724.7075pt>
-File: Images/Stratagems/Stratagem_2.png Graphic file (type png)
-<use Images/Stratagems/Stratagem_2.png>
-Package pdftex.def Info: Images/Stratagems/Stratagem_2.png  used on input line 
-95.
+<Images/Stratagems/unyeilding_faith.png, id=2, 843.15pt x 724.7075pt>
+File: Images/Stratagems/unyeilding_faith.png Graphic file (type png)
+<use Images/Stratagems/unyeilding_faith.png>
+Package pdftex.def Info: Images/Stratagems/unyeilding_faith.png  used on input 
+line 94.
 (pdftex.def)             Requested size: 225.21626pt x 193.57259pt.
-<Images/Stratagems/Stratagem_3.png, id=4, 843.15pt x 724.7075pt>
-File: Images/Stratagems/Stratagem_3.png Graphic file (type png)
-<use Images/Stratagems/Stratagem_3.png>
-Package pdftex.def Info: Images/Stratagems/Stratagem_3.png  used on input line 
-96.
+<Images/Stratagems/twisted_devotion.png, id=3, 843.15pt x 724.7075pt>
+File: Images/Stratagems/twisted_devotion.png Graphic file (type png)
+<use Images/Stratagems/twisted_devotion.png>
+Package pdftex.def Info: Images/Stratagems/twisted_devotion.png  used on input 
+line 96.
 (pdftex.def)             Requested size: 225.21626pt x 193.57259pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--97
+Underfull \hbox (badness 10000) in paragraph at lines 92--98
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--97
+Underfull \hbox (badness 10000) in paragraph at lines 92--98
 []
  []
 
@@ -550,12 +551,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--97
 
 
 
-<Images/Header_footer/Header.png, id=5, 1927.2pt x 338.26375pt>
-File: Images/Header_footer/Header.png Graphic file (type png)
-<use Images/Header_footer/Header.png>
-Package pdftex.def Info: Images/Header_footer/Header.png  used on input line 98
-.
-(pdftex.def)             Requested size: 565.54935pt x 99.26563pt.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 100.
+<Images/Header_footer/CSMHeader.png, id=4, 462.528pt x 81.1833pt>
+File: Images/Header_footer/CSMHeader.png Graphic file (type png)
+<use Images/Header_footer/CSMHeader.png>
+Package pdftex.def Info: Images/Header_footer/CSMHeader.png  used on input line
+ 100.
+(pdftex.def)             Requested size: 565.54935pt x 99.27141pt.
 
 Overfull \hbox (65.06535pt too wide) has occurred while \output is active
 [][] 
@@ -563,58 +566,58 @@ Overfull \hbox (65.06535pt too wide) has occurred while \output is active
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 111.26563pt, for example:
-(fancyhdr)                \setlength{\headheight}{111.26563pt}.
+(fancyhdr)                Make it at least 111.27141pt, for example:
+(fancyhdr)                \setlength{\headheight}{111.27141pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-99.26563pt}.
+(fancyhdr)                \addtolength{\topmargin}{-99.27141pt}.
 
-<Images/Header_footer/Footer.png, id=6, 1927.2pt x 338.26375pt>
-File: Images/Header_footer/Footer.png Graphic file (type png)
-<use Images/Header_footer/Footer.png>
-Package pdftex.def Info: Images/Header_footer/Footer.png  used on input line 98
-.
-(pdftex.def)             Requested size: 565.54901pt x 69.70581pt.
+<Images/Header_footer/CSMFooter.png, id=6, 462.528pt x 81.1833pt>
+File: Images/Header_footer/CSMFooter.png Graphic file (type png)
+<use Images/Header_footer/CSMFooter.png>
+Package pdftex.def Info: Images/Header_footer/CSMFooter.png  used on input line
+ 100.
+(pdftex.def)             Requested size: 565.58192pt x 69.71098pt.
 
-Overfull \hbox (65.06502pt too wide) has occurred while \output is active
+Overfull \hbox (65.09793pt too wide) has occurred while \output is active
 [][] 
  []
 
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 81.70581pt, for example:
-(fancyhdr)                \setlength{\footskip}{81.70581pt}.
+(fancyhdr)                Make it at least 81.71098pt, for example:
+(fancyhdr)                \setlength{\footskip}{81.71098pt}.
 
 <background.png, id=7, 597.432pt x 845.0772pt>
 File: background.png Graphic file (type png)
 <use background.png>
-Package pdftex.def Info: background.png  used on input line 98.
+Package pdftex.def Info: background.png  used on input line 100.
 (pdftex.def)             Requested size: 562.01462pt x 794.97874pt.
 [1{C:/Users/marsh/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ma
 rsh/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
 
-
- <./background.png (PNG copy)> <./Images/Header_footer/Header.png> <./Images/St
-ratagems/Stratagem_1.png> <./Images/Stratagems/Stratagem_2.png> <./Images/Strat
-agems/Stratagem_3.png> <./Images/Header_footer/Footer.png>] (warhammer40k.aux)
+ <./background.png (PNG copy)> <./Images/Header_footer/CSMHeader.png> <./Images
+/Stratagems/dark_claim.png> <./Images/Stratagems/unyeilding_faith.png> <./Image
+s/Stratagems/twisted_devotion.png> <./Images/Header_footer/CSMFooter.png>] (war
+hammer40k.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-05-26>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6265 strings out of 468219
- 103726 string characters out of 5432869
- 533894 words of memory out of 5000000
- 34684 multiletter control sequences out of 15000+600000
- 652056 words of font info for 58 fonts, out of 8000000 for 9000
+ 6263 strings out of 468219
+ 103814 string characters out of 5432869
+ 532900 words of memory out of 5000000
+ 34683 multiletter control sequences out of 15000+600000
+ 650902 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,13n,80p,1203b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,13n,80p,1203b,407s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\marsh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
 1000.pk><C:/Users/marsh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/
 uhvb8a.pfb><C:/Users/marsh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvet
 ic/uhvr8a.pfb><C:/Users/marsh/AppData/Local/Programs/MiKTeX/fonts/type1/urw/hel
 vetic/uhvro8a.pfb>
-Output written on warhammer40k.pdf (1 page, 1913211 bytes).
+Output written on warhammer40k.pdf (1 page, 2008830 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
